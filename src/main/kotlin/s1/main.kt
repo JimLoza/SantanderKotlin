@@ -40,4 +40,13 @@ fun main() {
 
     //Reto final
 
+    //Pre-work sesion 2
+    fun saludar(){
+        println("Hola BEDU!")
+    }
+
+    fun saludarArgs(nombre: String): String {
+        return ""
+    }
+
 }
